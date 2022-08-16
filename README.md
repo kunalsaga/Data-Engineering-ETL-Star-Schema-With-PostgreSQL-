@@ -32,7 +32,6 @@ time - timestamps of records in songplays broken down into specific units (start
 - etl.ipynb reads and processes a single file from song_data and log_data and loads the data into your tables. This notebook contains detailed instructions on the ETL process for each of the tables.
 - etl.py reads and processes files from song_data and log_data and loads them into your tables. You can fill this out based on your work in the ETL notebook.
 - sql_queries.py contains all your sql queries, and is imported into the last three files above.
-- README.md provides discussion on your project.
 
 ## setup
 - run create_tables.py
